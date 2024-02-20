@@ -1,0 +1,23 @@
+
+.task-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.form {
+  text-align: center;
+}
+.task-list {
+  text-align: center;
+}
+.task-list .checked {
+  text-decoration: line-through;
+}
+.update-wrapper{
+  text-align: center;
+}
+.cursor{
+  cursor: pointer;
+}
